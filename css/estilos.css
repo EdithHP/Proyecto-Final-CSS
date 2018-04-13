@@ -1,0 +1,25 @@
+body{
+	font-family: 'Dancing Script', cursive;
+}
+header{
+	background: #5b7989;
+	border-radius: 10px 10px 0px 0px;
+	color: white;
+
+
+}
+header h1{
+	text-align: left;
+	padding: 20px;
+	text-shadow: 2px 2px 2px #02010a;
+}
+#menu-principal ul li{
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+}
+#menu-principal a{
+	text-decoration: none;
+	color: white;
+
+}
